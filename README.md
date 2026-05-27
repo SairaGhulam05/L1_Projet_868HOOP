@@ -3,8 +3,8 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 # Description du projet
 Maquette de basketball avec détection automatique des paniers.
 # Materiel utilisé
-Carte UCA (RFThings)
-Capteur ultrason HC-SR04
-Écran OLED 0.96"
-Buzzer
-Module LoRa intégré
+Carte UCA (RFThings)  
+Capteur ultrason HC-SR04  
+Écran OLED 0.96"  
+Buzzer  
+Module LoRa intégré  
